@@ -1,4 +1,4 @@
-### Creacion de archivos 
+# Creacion de archivos 
 
 <p>
 Algunos de lospasos que se hicieron para crear los archivos 
@@ -8,3 +8,5 @@ Algunos de lospasos que se hicieron para crear los archivos
 - Git add .
 - Git commit -m
 - Git push
+
+**Entre otros comandos...**
