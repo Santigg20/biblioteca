@@ -147,7 +147,7 @@ registrados.</td>
 <?php $conexion->close(); ?>
 ```
 
-#Código de guardar.php
+# Código de guardar.php
 
 - En la carpeta biblioteca cree un guardar.php para este código
 
@@ -180,7 +180,7 @@ $conexion->close();
 ?>
 ```
 
-#Código del styles.css
+# Código del styles.css
 
 - En la carpeta biblioteca cree un styles.css para este código
 
@@ -276,7 +276,7 @@ font-weight: bold;
 .badge.dispo { background-color: #d4edda; color: #155724; }
 .badge.prestado { background-color: #f8d7da; color: #721c24; }
 ```
-#Código script.js 
+# Código script.js 
 
 - En la carpeta biblioteca cree un script.js para este código
 
@@ -309,7 +309,7 @@ alert('¡Libro registrado con éxito en el inventario!');
 }
 });
 ```
-#Código de cambiarEstado.php
+# Código de cambiarEstado.php
 
 - En la carpeta agrege este codigo para que se le aumentara otros botones 
 
@@ -345,7 +345,7 @@ header("Location: index.php");
 ?>
 ```
 
-#Sustitucion del index.php
+# Sustitucion del index.php
 
 - El codigo del index.php anterior se cambiaria para que se le agregue la columna opción llamada Acción y el codigo quedaria asi 
 
